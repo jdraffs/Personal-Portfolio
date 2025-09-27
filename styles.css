@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+/* NAVBAR */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 2rem;
+    
+}
+.right-nav {
+    display: flex;
+    gap: 3rem;
+}
+li {
+    list-style: none;
+}
+
