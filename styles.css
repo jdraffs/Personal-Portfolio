@@ -17,7 +17,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding-top: 2rem;
-    
+    margin: 0 50px;
 }
 .right-nav {
     display: flex;
