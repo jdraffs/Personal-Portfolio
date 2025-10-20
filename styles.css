@@ -33,10 +33,5 @@ li {
 /*to be edited later because AS*/
 .hero-container {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    gap: 1.5rem;
-    height: 80vh;
+    
 }
