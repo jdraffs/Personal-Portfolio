@@ -17,7 +17,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding-top: 2rem;
-    margin: 0 50px;
+    margin: 0 120px;
 }
 .right-nav {
     display: flex;
@@ -39,5 +39,9 @@ li {
     gap: 10px;
     flex-basis: 100px;
     height: 400px;
-    margin: 0 50px;
+    margin: 0 120px;
+}
+.hero-container > p {
+    font-family: "Inconsolata", monospace;
+    color: #6a6b7b;
 }
