@@ -46,6 +46,7 @@ li {
 .greetings {
     font-family: "Inconsolata", monospace;
     color: #6a6b7b;
+    font-size: 18px;
 }
 .name{
     font-size: 90px;
@@ -53,12 +54,15 @@ li {
 .description {
     font-family:"Inconsolata", monospace;
     color: #6a6b7b;
+    font-size: 18px;
+}
+.resume {
+    color: white;
     font-size: 17px;
 }
 .resume-button {
-    background-color: transparent;
-    border: 2px solid #6a6b7b;
-    border-radius: 5px;
-    padding: 10px 20px;
+    background-color: rgb(49, 145, 242);
+    border: none;
+    padding: 13px 30px;
     cursor: pointer;
 }
