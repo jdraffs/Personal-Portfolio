@@ -55,3 +55,10 @@ li {
     color: #6a6b7b;
     font-size: 17px;
 }
+.resume-button {
+    background-color: transparent;
+    border: 2px solid #6a6b7b;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
