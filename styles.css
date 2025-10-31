@@ -73,8 +73,11 @@ li {
     height: 600px;
     margin: 0 120px;
     margin-top: 170px;
-    background-color: rgb(227, 227, 227);
+    background-color: rgb(249, 247, 247);
     width: 100vw;
     margin-left: calc(50% - 50vw); /*para its edge to edge*/
     margin-right: calc(50% - 50vw);
+}
+.projects-title {
+    margin: 0 120px;
 }
