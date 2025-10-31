@@ -42,6 +42,7 @@ li {
     flex-basis: 100px;
     height: 400px;
     margin: 0 120px;
+    margin-top: 70px;
 }
 .greetings {
     font-family: "Inconsolata", monospace;
@@ -65,4 +66,15 @@ li {
     border: none;
     padding: 13px 30px;
     cursor: pointer;
+}
+
+/*FEATURED PROJECTS SECTION */
+.projects-section {
+    height: 600px;
+    margin: 0 120px;
+    margin-top: 170px;
+    background-color: rgb(227, 227, 227);
+    width: 100vw;
+    margin-left: calc(50% - 50vw); /*para its edge to edge*/
+    margin-right: calc(50% - 50vw);
 }
