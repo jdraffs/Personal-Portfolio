@@ -81,3 +81,6 @@ li {
 .projects-title {
     margin: 0 120px;
 }
+li {
+    list-style: none;
+}
